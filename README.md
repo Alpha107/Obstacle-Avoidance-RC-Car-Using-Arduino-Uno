@@ -68,8 +68,3 @@ This project helps in understanding sensor interfacing, motor control, and real-
 The Obstacle Avoidance Robot using Arduino Uno successfully demonstrates autonomous navigation through sensor-based obstacle detection. The project strengthened knowledge in ultrasonic sensors, servo control, and motor driver interfacing. Despite limitations in sensor accuracy and power efficiency, the robot reliably avoided obstacles, providing a solid foundation for advanced autonomous systems.
 
 ---
-
-## Images
-*(Replace the placeholders with your actual images)*  
-![Obstacle Avoidance Front](images/obstacle_robot_front.png)  
-![Obstacle Avoidance Top](images/obstacle_robot_top.png)
